@@ -1,5 +1,5 @@
 # slay2
-Reimplementation of Slay in python and pygame 
+Reimplementation of Slay in python and pygame.
 Slay is a game by Sean O'Connor [link](http://www.windowsgames.co.uk/slay.html)  
 The sprites are rendered from Blender  
 
